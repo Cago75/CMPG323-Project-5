@@ -1,3 +1,3 @@
 # CMPG323-Project-5
-## PowerBI will be done here
-Initial commit - main powerBI files without config also adding excell file
+## Tabs
+High Level Metrics, device monitroing. well, should have, seems like i didnt save. next commit will conatin these. 
