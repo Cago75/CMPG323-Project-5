@@ -1,4 +1,5 @@
 # CMPG323-Project-5
+
 ## Implemantations
 
 
@@ -14,3 +15,4 @@ Univeral filters can be used on every page
 - Platform
 - Sub Category
 - Status (calculated from the isActive Column)
+
