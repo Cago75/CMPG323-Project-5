@@ -1,3 +1,16 @@
 # CMPG323-Project-5
-## PowerBI will be done here
-Initial commit - main powerBI files without config also adding excell file
+## Implemantations
+
+
+Three main Reports:
+- High Level Metrics
+- Device Monnitoring
+- Device Registration
+
+Univeral filters can be used on every page
+- Device Category
+- Zone Name
+- Date installed (any range chosen)
+- Platform
+- Sub Category
+- Status (calculated from the isActive Column)
