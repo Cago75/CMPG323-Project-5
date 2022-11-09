@@ -1,3 +1,18 @@
 # CMPG323-Project-5
-## Tabs
-High Level Metrics, device monitroing. well, should have, seems like i didnt save. next commit will conatin these. 
+
+## Implemantations
+
+
+Three main Reports:
+- High Level Metrics
+- Device Monnitoring
+- Device Registration
+
+Univeral filters can be used on every page
+- Device Category
+- Zone Name
+- Date installed (any range chosen)
+- Platform
+- Sub Category
+- Status (calculated from the isActive Column)
+
